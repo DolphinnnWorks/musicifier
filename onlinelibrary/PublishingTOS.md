@@ -8,8 +8,10 @@ By submitting your music through the Musicifier platform, you agree to the follo
 
 3. **Attribution**: Metadata you provide (title, author, publisher) will be included in the published listing.
 
-4. **No Copyright Violations**: Submissions must not infringe on any third-party copyright.
+4. **Public Email Disclosure**: The email you used in the form that you have submitted to publish the music will be publicly visible in commit history to indicate who published the music.
 
-5. **Revocation**: You may request your music to be removed by contacting the repository administrator.
+5. **Copyright Responsibility**: You are solely responsible for any copyright violations associated with your submission. Musicifier is not liable for any legal issues arising from your content.
 
-6. **Data Storage**: Submissions are stored publicly in this GitHub repository and are accessible to anyone.
+6. **Revocation**: You may request your music to be removed by contacting the repository administrator.
+
+7. **Data Storage**: Submissions are stored publicly in this GitHub repository and are accessible to anyone.
