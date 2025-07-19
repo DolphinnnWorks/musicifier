@@ -5,7 +5,7 @@
 @title Musicifier ^(...^)
 
 set IsPaused=0
-set showEasterEgg=0
+set DebugRandomSequenceEnabled=0
 
 if exist .\pid.txt (
     @chcp 65001 >nul
@@ -105,8 +105,7 @@ if "!mus_data_repeat!" == "True" ( set DisplayArea=!DisplayArea! ^(R^) )
 if "!mus_data_repeat!" == "Once" ( set DisplayArea=!DisplayArea! ^(R1^) )
 echo !DisplayArea!
 
-:: EASTER EGG BELOW
-if !showEasterEgg! == 1 (
+if !DebugRandomSequenceEnabled! == 1 (
     set RandomSequenceArea= 
     for /L %%i in (1,1,15) do (
         set /a randNum=!RANDOM! %% 4 + 1
@@ -238,11 +237,11 @@ if %errorlevel% == 9 (
     )
 )
 if %errorlevel% == 10 (
-    if %showEasterEgg% == 1 (
-        set showEasterEgg=0
+    if %DebugRandomSequenceEnabled% == 1 (
+        set DebugRandomSequenceEnabled=0
     )
-    if %showEasterEgg% == 0 (
-        set showEasterEgg=1
+    if %DebugRandomSequenceEnabled% == 0 (
+        set DebugRandomSequenceEnabled=1
     )
 )
 goto Display
