@@ -1,8 +1,8 @@
 # Musicifier
 ### Download Musicifier:
 | Version      | Batch Downloader | PS1 Downloader | Zip Downloader |
-| :----------- | :--------------- | :------------- | :------------- |
-| v1.0.0       | None             | None           | None           |
+| :----------- | :--------------- | :------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| v1.0.0       | None             | None           | [Download](https://raw.githubusercontent.com/I-dont-know-what-to-put/musicifier/refs/heads/main/versions/v1.0.0/v1.0.0.zip) |
 
 ### Upload music to the online library:
 Publishing music in the online library means your agreeing to the [Online Library Publishing Terms of Service](https://github.com/I-dont-know-what-to-put/musicifier/blob/main/onlinelibrary/PublishingTOS.md)
