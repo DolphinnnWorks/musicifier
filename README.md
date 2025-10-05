@@ -1,4 +1,9 @@
 # Musicifier
+## What it does:
+Musicifier is a basic application that plays wav, mpm, and mp3 files using command prompt, vbscript and powershell.
+It does not use any executable file therefore making it storage efficient.
+It also supports online streaming using github.
+
 ## Download Musicifier:
 | Version      | Batch Downloader | PS1 Downloader | Zip Downloader |
 | :----------- | :--------------- | :------------- | :-------------------------------------------------------------------------------------------------------------------------- |
@@ -14,7 +19,7 @@ If windows said that the program is unsafe it's a false positive, you can look t
 
 - If "Do you want to open this file?" showed up, uncheck "Always ask before opening this file" then open.
 
-## Upload music to the online library:
+# Upload music to the online library:
 Publishing music in the online library means your agreeing to the [Online Library Publishing Terms of Service](https://github.com/I-dont-know-what-to-put/musicifier/blob/main/onlinelibrary/PublishingTOS.md)
 
 To publish a music into the online library you must fill the [Publishing Form](https://forms.gle/oFn7o2Pb2DHgXm2a6)
