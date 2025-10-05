@@ -1,8 +1,19 @@
 # Musicifier
 ## What it does:
 Musicifier is a basic application that plays wav, mpm, and mp3 files using command prompt, vbscript and powershell.
-It does not use any executable file therefore making it storage efficient.
+
+It does not use any executable file therefore making it storage efficient, CPU efficient, and memory efficient.
+
 It also supports online streaming using github.
+
+## Screenshots:
+Online Library:
+
+![OnlineLibraryScreenshot](images/onlinelibrary.PNG)
+
+Music Player:
+
+![MusicPlayerScreenshot](images/playmusic.PNG)
 
 ## Download Musicifier:
 | Version      | Batch Downloader | PS1 Downloader | Zip Downloader |
