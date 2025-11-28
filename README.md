@@ -31,7 +31,7 @@ If windows said that the program is unsafe it's a false positive, you can look t
 - If "Do you want to open this file?" showed up, uncheck "Always ask before opening this file" then open.
 
 # Upload music to the online library:
-Publishing music in the online library means your agreeing to the [Online Library Publishing Terms of Service](https://github.com/I-dont-know-what-to-put/musicifier/blob/main/onlinelibrary/PublishingTOS.md)
+Publishing music in the online library means your agreeing to the [Online Library Publishing Terms of Service](https://github.com/DolphinnnWorks/musicifier-onlinelibrary/blob/main/PublishingTOS.md)
 
 To publish a music into the online library you must fill the [Publishing Form](https://forms.gle/oFn7o2Pb2DHgXm2a6)
 
